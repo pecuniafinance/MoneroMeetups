@@ -1,7 +1,7 @@
 {
   "name": "MoneroMeetups",
   "version": "0.1.0",
-  "homepage": "https://moneromeetups.github.io/",
+  "homepage": "https://pecuniafinance.github.io/MoneroMeetups/",
   "private": true,
   "dependencies": {
     "git": "^0.1.5",
