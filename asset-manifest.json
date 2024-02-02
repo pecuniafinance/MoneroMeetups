@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8be5707a.css",
+    "main.js": "/static/js/main.fb197ac8.js",
+    "static/media/barca.jpg": "/static/media/barca.7e2b0e730a5104365fe6.jpg",
+    "static/media/twitterx_logo.png": "/static/media/twitterx_logo.551e7d263f45d7e5bd68.png",
+    "static/media/logo_192.png": "/static/media/logo_192.7840a88f4114d4a193fe.png",
+    "static/media/telegram_logo.png": "/static/media/telegram_logo.802fb481c6e0a420aff0.png",
+    "index.html": "/index.html",
+    "static/media/catalonia-flag.svg": "/static/media/catalonia-flag.75abef6180ec575bc3f685f7c45b7c1e.svg",
+    "main.8be5707a.css.map": "/static/css/main.8be5707a.css.map",
+    "main.fb197ac8.js.map": "/static/js/main.fb197ac8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8be5707a.css",
+    "static/js/main.fb197ac8.js"
+  ]
+}
